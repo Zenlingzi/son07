@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Love you 3000 ^^',
     messDesc: 'Tớ rất vui, mình ib nhau nhé!',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.youtube.com/watch?v=46pra8NwhzU'
+    messLink: 'https://www.youtube.com/watch?v=GBIIQ0kP15E'
 }
